@@ -37,13 +37,6 @@ span {
     /* opacity: 0.8; */
 }
 
-.credit {
-    position: absolute;
-    bottom: 10px;
-    left: 10px;
-    color: white;
-    font-size: 12px;
-}
 
 .right-panel {
     flex: 1;
